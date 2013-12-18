@@ -10,5 +10,9 @@
   "colors_format": "0",
   "raccourcir_valeurs": "0",
   // Select a different url for the csslisible API
-  "csslisible_URL": "http://csslisible.com/"
+  "csslisible_URL": "http://csslisible.com/",
+
+  // web proxy URL. Set it to blank if not needed
+  "proxy_URL": ""
+  // example: "proxy_URL": "http://your.company.com:8080"
 }
